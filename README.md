@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Tentang Saya
 Hai,saya adalah mahasiswa informatika UPNVYK TA 26<br>Saya suka membuat Projek berbasis C++ Dan React JS<br><br><br>
 
 
